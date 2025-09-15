@@ -1,14 +1,26 @@
-Hi,
+# About Me
 
-I am currently a master student at Utrecht University in the [Game and Media Technology](https://www.uu.nl/en/masters/game-and-media-technology) programme.
-I have done my bachelor in [Computer Science](https://www.universiteitleiden.nl/onderwijs/opleidingen/bachelor/informatica) at Leiden University.
+I'm a master's student at Utrecht University pursuing [Game and Media Technology](https://www.uu.nl/en/masters/game-and-media-technology), with a bachelor's degree in [Computer Science](https://www.universiteitleiden.nl/onderwijs/opleidingen/bachelor/informatica) from Leiden University.
 
-Master thesis: Map Fusion algorithm to merge two graphs. 
-* [map fusion](https://github.com/jvtubergen/map-fusion) glues together the data pipeline, map fusion algorithm, and experiments.
-* [gmaps-image](https://github.com/jvtubergen/gmaps-image) retrieve satellite image data of arbitrary size with the Google Maps API.
-* [sat2graph-simplified](https://github.com/jvtubergen/Sat2Graph-simplified) tweaking [Sat2Graph](https://github.com/songtaohe/Sat2Graph) to infer a road map from arbitrary satellite images.
-* [partial-curve-matching-rs](https://github.com/jvtubergen/partial-curve-matching-rs) compute partial curve matching against a curve or against a graph.
+## Master's Research: Graph Map Fusion
 
-In my bachelor thesis I researched the capabilities of sound interactive related activities in the context of mobile applications.
-* [audiosync](https://github.com/jvtubergen/audiosync) web-application capable to synchronize audio output on multiple devices.
-* [audiosignal-correlation](https://github.com/jvtubergen/audiosignal-correlation) WebGL code with SIMD optimization to cross-correlate audio in its raw format (no FFT applied).
+My master's thesis focuses on developing a late-fusion multi-modal map reconstruction algorithm to intelligently merge road network graphs reconstructed from satellite imagery and GPS data.
+
+### Key Projects:
+- **[map-fusion](https://github.com/jvtubergen/map-fusion)** - Complete pipeline integrating data processing, map fusion algorithms, and experimental validation
+- **[gmaps-image](https://github.com/jvtubergen/gmaps-image)** - Google Maps API tool for retrieving satellite images of arbitrary dimensions
+- **[sat2graph-simplified](https://github.com/jvtubergen/Sat2Graph-simplified)** - Enhanced version of [Sat2Graph](https://github.com/songtaohe/Sat2Graph) for road network extraction from satellite imagery
+- **[partial-curve-matching-rs](https://github.com/jvtubergen/partial-curve-matching-rs)** - Rust implementation for computing partial curve matching between curves and graphs
+
+## Bachelor's Research: Audio Synchronization
+
+My bachelor's thesis explored sound-based interactive capabilities for mobile applications, leading to practical synchronization solutions.
+
+### Key Projects:
+- **[audiosignal-correlation](https://github.com/jvtubergen/audiosignal-correlation)** - SIMD-optimized WebGL implementation for real-time audio cross-correlation without FFT preprocessing
+- **[audiosync](https://github.com/jvtubergen/audiosync)** - Web application enabling precise audio output synchronization across multiple mobile devices
+  - Presented an enhanced version at [Web Audio Conference (WAC) 2023](https://webaudioconf.com/2023/)
+
+---
+
+*Interested in computer vision, graph algorithms, audio processing, and real-time systems.*
