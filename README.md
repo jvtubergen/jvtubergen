@@ -19,7 +19,7 @@ My bachelor's thesis explored sound-based interactive capabilities for mobile ap
 ### Key Projects:
 - **[audiosignal-correlation](https://github.com/jvtubergen/audiosignal-correlation)** - SIMD-optimized WebGL implementation for real-time audio cross-correlation without FFT preprocessing
 - **[audiosync](https://github.com/jvtubergen/audiosync)** - Web application enabling precise audio output synchronization across multiple mobile devices
-  - Presented an enhanced version at [Web Audio Conference (WAC) 2023](https://webaudioconf.com/2023/)
+  - Presented the audio processing pipeline and a demonstration of an enhanced version at [Web Audio Conference (WAC) 2022](https://wac2022.i3s.univ-cotedazur.fr/)
 
 ---
 
