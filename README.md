@@ -24,3 +24,8 @@ My bachelor's thesis explored sound-based interactive capabilities for mobile ap
 ---
 
 *Interested in computer vision, graph algorithms, audio processing, and real-time systems.*
+
+## Other (Small) Projects
+
+- **[http-to-https-redirect](https://github.com/jvtubergen/http-to-https-redirect)** - Lightweight Rust server that redirects HTTP requests to HTTPS
+- **[simple-audio-player](https://github.com/jvtubergen/simple-audio-player)** - Minimal audio player to play sound files from the terminal
