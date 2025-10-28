@@ -21,11 +21,11 @@ My bachelor's thesis explored sound-based interactive capabilities for mobile ap
 - **[audiosync](https://github.com/jvtubergen/audiosync)** - Web application enabling precise audio output synchronization across multiple mobile devices
   - Presented the audio processing pipeline and a demonstration of an enhanced version at [Web Audio Conference (WAC) 2022](https://wac2022.i3s.univ-cotedazur.fr/)
 
----
-
-*Interested in computer vision, graph algorithms, audio processing, and real-time systems.*
-
 ## Other (Small) Projects
 
 - **[http-to-https-redirect](https://github.com/jvtubergen/http-to-https-redirect)** - Lightweight Rust server that redirects HTTP requests to HTTPS
 - **[simple-audio-player](https://github.com/jvtubergen/simple-audio-player)** - Minimal audio player to play sound files from the terminal
+
+---
+
+*Interested in audio processing, and real-time systems.*
