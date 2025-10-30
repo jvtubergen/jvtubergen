@@ -23,6 +23,7 @@ My bachelor's thesis explored sound-based interactive capabilities for mobile ap
 
 ## Other (Small) Projects
 
+- **[https-wrapper](https://github.com/jvtubergen/https-wrapper)** - Minimalistic HTTPS reverse proxy that adds TLS encryption to any HTTP server
 - **[http-to-https-redirect](https://github.com/jvtubergen/http-to-https-redirect)** - Lightweight Rust server that redirects HTTP requests to HTTPS
 - **[simple-audio-player](https://github.com/jvtubergen/simple-audio-player)** - Minimal audio player to play sound files from the terminal
 
