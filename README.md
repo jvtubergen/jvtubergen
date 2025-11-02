@@ -1,4 +1,4 @@
-# About Me
+  # About Me
 
 I'm a master's student at Utrecht University pursuing [Game and Media Technology](https://www.uu.nl/en/masters/game-and-media-technology), with a bachelor's degree in [Computer Science](https://www.universiteitleiden.nl/onderwijs/opleidingen/bachelor/informatica) from Leiden University.
 
@@ -30,4 +30,4 @@ My bachelor's thesis explored sound-based interactive capabilities for mobile ap
 
 ---
 
-*Interested in audio processing, and real-time systems.*
+*Interested in audio processing and real-time systems.*
